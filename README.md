@@ -9,3 +9,6 @@
 8. แก้ไข Dockerfile เพื่อ run test_etl.py
 9. สร้าง CI/CD pipeline jenkins
 10. ทดลองแก้ไข code เพื่อดูการทำงานอัตโนมัติ
+
+
+test
